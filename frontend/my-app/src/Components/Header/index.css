@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.order-list{
+    list-style-type: none;
+    display: flex;
+    
+    background-color: rgb(7, 128, 133);
+    height: 70px;
+    justify-content: space-between;
+    
+}
+.order-item{
+    margin: 10px;
+    color: #ffffff;
+    padding-top:10px;
+    font-weight: bold;
+    cursor: pointer;
+    font-family: "Roboto";
+}
+.order-item-container{
+    display: flex;
+    margin-left: 500px;
+    margin-top: 10px;
+
+}
+.cart-icon{
+    color: #ffffff;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+.career-carve{
+    margin-top: 20px;
+    color:#000000;
+    font-size: 28px;
+    font-family:'sans-serif';
+    font-weight: bold;
+    margin-left: 20px;
+}

@@ -1,0 +1,27 @@
+
+.mentor-container{
+    margin-top: 50px;
+}
+
+.heading{
+    margin-top: 40px;
+    font-size: 35px;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin: 10px;
+    
+
+}
+
+
+
+
+.button{
+    height: 32px;
+    width: 132px;
+    border-radius: 7px;
+    border-width: 0px;
+    background-color: rgb(29, 87, 102);
+    color: #ffffff;
+    cursor: pointer;
+}
